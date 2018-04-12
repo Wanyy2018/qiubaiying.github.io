@@ -77,11 +77,5 @@ friends: [
     },{
         title: "简书·Hime",
         href: "https://www.jianshu.com/u/c87158080820"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
